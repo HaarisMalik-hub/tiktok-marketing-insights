@@ -1,7 +1,13 @@
 # TikTok Marketing Insights
 
-## About Me
-I’m Haaris Malik, a data enthusiast with experience in marketing analytics. This project demonstrates my ability to connect data to real business outcomes using SQL and visualization tools.
+# About Me
+
+I’m Haaris Malik, a passionate digital marketer and data enthusiast with over two years of experience specializing in TikTok affiliate marketing. I’ve collaborated with well-known brands like Anker, Goli, Wyze, and Javy Coffee to create strategic marketing campaigns that drive engagement and sales on TikTok.
+
+My expertise lies in leveraging data to optimize marketing performance — from analyzing campaign metrics and identifying trends to developing actionable insights that boost ROI. I combine my deep understanding of social media dynamics with strong data analysis skills using SQL, Google Sheets, and visualization tools.
+
+This project showcases my ability to connect raw marketing data to real business outcomes through clear analysis and compelling visual storytelling. I’m eager to bring this data-driven mindset to new challenges and help brands grow by making smarter marketing decisions.
+
 
 
 ## Overview
