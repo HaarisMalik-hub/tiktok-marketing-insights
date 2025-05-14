@@ -34,7 +34,7 @@ The data includes campaign name, dates, product names, views, clicks, sales, rev
 - `README.md` - Project documentation (this file)
 
 # SQL Queries
-The file tiktok_marketing_queries.sql contains all the main SQL queries used to analyze the TikTok affiliate marketing dataset. These queries demonstrate how to:
+The file [SQL Queries](./tiktok_marketing_queries.sql) contains all the main SQL queries used to analyze the TikTok affiliate marketing dataset. These queries demonstrate how to:
 Calculate total revenue and commission by campaign
 Summarize engagement metrics like views, clicks, and sales by product
 Track campaign revenue trends over time
