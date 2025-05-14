@@ -6,6 +6,9 @@ This project analyzes TikTok affiliate marketing campaign data to uncover insigh
 ## Dataset
 The data includes campaign name, dates, product names, views, clicks, sales, revenue, and commission.
 
+## About Me
+I’m Haaris Malik, a data enthusiast with experience in marketing analytics. This project demonstrates my ability to connect data to real business outcomes using SQL and visualization tools.
+
 ## Key Analyses
 - Total revenue and commission by campaign
 - Engagement trends over time
