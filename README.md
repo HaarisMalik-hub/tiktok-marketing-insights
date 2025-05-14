@@ -32,6 +32,10 @@ SELECT campaign,
        SUM(commission) AS total_commission
 FROM tiktok_insights
 GROUP BY campaign;
-Back to School	8889.32	1333.4
-Fall Frenzy	58339.27	8750.89
-Spring Launch	24341.31	3651.2
+
+-- Average revenue earned per click by campaign
+SELECT Campaign, 
+       SUM(Revenue) * 1.0 / SUM(Clicks) AS revenue_per_click
+FROM tiktok_insights
+GROUP BY Campaign;
+
